@@ -47,9 +47,4 @@ represent a segment that may require proactive HR intervention to reduce the ris
 
 Using HR analytics to monitor KPIs such as Attrition Rate, Job Satisfaction, Overtime, and Work-Life Balance enables leadership to make informed workforce planning and retention decisions.
 
-📊 Executive Business Findings
-Employee attrition is not evenly distributed across the organization.
-Work environment and employee experience factors appear to be associated with attrition.
-Compensation and workload should be reviewed alongside employee engagement initiatives.
-HR can use segmentation and KPI monitoring to identify high-risk employee groups.
-Continuous monitoring through dashboards can support better retention strategies.
+
